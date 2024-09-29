@@ -1,0 +1,20 @@
+# Build Options
+#   change yes to no to disable
+
+VIA_ENABLE = yes
+AUDIO_SUPPORTED = no
+RGB_MATRIX_SUPPORTED = yes
+RGBLIGHT_SUPPORTED = yes
+BOOTMAGIC_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+SPLIT_KEYBOARD = yes
+SERIAL_DRIVER = vendor
+MOUSEKEY_ENABLE = yes
+NKRO_ENABLE = yes
+
+#JOYSTICK
+JOYSTICK_ENABLE = yes
+
+# Encoder
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
